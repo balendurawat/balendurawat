@@ -19,6 +19,12 @@
 </h1>
   </div>
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/FkkSI8MGqfjT9dmnQ9/giphy.gif" width="600" height="300"/>
+</div>
+
 <h3 align="center">I am a Computer Science student, getting my hands dirty with web3</h3>
 
 
