@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hey there, I'm Balendu</h1>
 <h3 align="center">I am a Computer Science student, getting my hands dirty with web3</h3>
 
@@ -15,3 +18,4 @@
   <a href="https://github.com/balendurawat/github-readme-stats"><img alt="Balendu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balendurawat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="170px" width="370px"/></a>
   <br/>
   </summary>
+
