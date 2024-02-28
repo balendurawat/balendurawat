@@ -35,7 +35,9 @@
 - Latest Builds
 
 - 👨‍💻 **[AI FORMS SAAS(Just like Typeform, but forms are build by AI)](https://github.com/balendurawat/AIFormBuilder)**
-- 👨‍💻 **[DEVOPS AUTOMATIONS CI CD, MONITORING, AND EMAIL)](https://github.com/balendurawat/DevSecOPs_CICD_Monitoring)**
+- 👨‍💻 **[DEVOPS AUTOMATIONS CI CD, MONITORING, AND EMAIL](https://github.com/balendurawat/DevSecOPs_CICD_Monitoring)**
+
+- Blog: **[Netflix Devops Deployment](https://balendurawat.hashnode.dev/ci-cd-with-monitoring-email-devsecops-netflix-clone)**
 
  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
