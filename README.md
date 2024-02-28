@@ -32,9 +32,10 @@
 
 - 💻 **[Check out my projects!](https://github.com/balendurawat?tab=repositories)**
 
-- Looking forward to collaborate on **Open Source Projects**
+- Latest Builds
 
-- 👨‍💻 Currently working on **[web3 blog system](https://github.com/balendurawat/pehig)**
+- 👨‍💻 **[AI FORMS SAAS(Just like Typeform, but forms are build by AI)](https://github.com/balendurawat/AIFormBuilder)**
+- 👨‍💻 **[DEVOPS AUTOMATIONS CI CD, MONITORING, AND EMAIL)](https://github.com/balendurawat/DevSecOPs_CICD_Monitoring)**
 
  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
